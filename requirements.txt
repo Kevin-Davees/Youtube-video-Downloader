@@ -1,0 +1,29 @@
+# ================================================================
+# requirements.txt — YouTube Downloader
+# ================================================================
+# Install all third-party dependencies with:
+#   pip install -r requirements.txt
+#
+# To upgrade yt-dlp later:
+#   pip install --upgrade yt-dlp
+#   or: yt-dlp -U
+# ================================================================
+
+# --- Third-party packages (must be installed) ---
+yt-dlp>=2024.1.1
+
+# ================================================================
+# Standard library modules used by this project
+# These are built into Python 3.8+ — do NOT uncomment or install
+# ================================================================
+# tkinter            GUI framework (windows, tabs, widgets)
+# tkinter.ttk        Themed ttk widget set
+# tkinter.scrolledtext  Scrollable log text area
+# tkinter.filedialog    Native OS folder picker dialog
+# tkinter.messagebox    Native OS alert/confirm dialogs
+# threading          Background thread management
+# os                 Path construction, folder creation
+# sys                Python interpreter path access
+# shutil             FFmpeg PATH detection (shutil.which)
+# subprocess         Safe pip install execution with error capture
+# time               Delay between batch downloads
