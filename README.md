@@ -145,7 +145,7 @@ sudo apt upgrade ffmpeg
 ## ▶️ Running the App
 
 ```bash
-python yt_downloader_fixed.py
+python Youtube_downloader.py
 ```
 
 On first run, if `yt-dlp` is not installed, the app will offer to install it automatically via pip.
