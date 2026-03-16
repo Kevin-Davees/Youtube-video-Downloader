@@ -3,9 +3,6 @@
 A lightweight, desktop GUI application for downloading YouTube videos, playlists, and audio — built with Python and powered by the [yt-dlp](https://github.com/yt-dlp/yt-dlp) library.
 
 ---
-![App Preview](Assets/3_in_1_image.png)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
----
 
 ## ✨ Features
 
@@ -21,6 +18,10 @@ A lightweight, desktop GUI application for downloading YouTube videos, playlists
 
 ---
 ![Download Demo](Assets/Download.gif)
+---
+
+![App Preview](Assets/3_in_1_image.png)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ---
 
 ## 📦 Dependencies
